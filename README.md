@@ -117,20 +117,26 @@ plt.subplot(224); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 
 ##  Output
 
-ORIGINAL IMAGE:
+**ORIGINAL IMAGE:**
 
 <img width="538" height="681" alt="image" src="https://github.com/user-attachments/assets/76f0e8e2-740d-4975-b57c-c8f87c9f048f" />
 
 
-Equalised Histogram:
+**Equalised Histogram:**
 
 <img width="449" height="629" alt="image" src="https://github.com/user-attachments/assets/8bf01957-719e-42de-b287-2abf370e8c77" />
 
-Histogram of Grayscale Image and any channel of Color Image:
+
+**Histogram of any channel of Color Image:**
+
 <img width="535" height="197" alt="image" src="https://github.com/user-attachments/assets/d7304c14-c7c7-45f9-a424-7f62056e3183" />
 
-Histogram Equalization of Grayscale Image:
-<img width="512" height="408" alt="image" src="https://github.com/user-attachments/assets/b9be8285-9583-4c13-a241-5d67e70d86ae" />
+
+
+**Histogram Equalization of Color Image:**
+
+<img width="896" height="353" alt="image" src="https://github.com/user-attachments/assets/55dc9d85-b133-490f-a45e-22560cbc871e" />
+
 
 
 
